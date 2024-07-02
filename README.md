@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jamil Muhammad,ABDULLAHI
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web Development (specifically Frontend development (
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Frontend projects 
-- 📫 How to reach me ...
+- 📫 How to reach me bn.usmann22@gmail.com wa.me/9160152870
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: Im a very fast learner 
 
