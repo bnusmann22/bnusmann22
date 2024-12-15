@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jamil Muhammad,ABDULLAHI
+- 👋 Hi, I’m Dev Jamil
 - 👀 I’m interested in Web Development (specifically Frontend development (
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Frontend projects 
 - 📫 How to reach me bn.usmann22@gmail.com wa.me/9160152870
 - 😄 Pronouns: him/he
