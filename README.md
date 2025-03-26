@@ -1,6 +1,6 @@
 # Hi there, I'm Jamil Muhammad, ABDULLAHI! 👋  <br/> Dev. Jamil
 
-**Front-End Developer | Software Engineering Student**  
+**Front-End Developer| PROBLEM SOLVER 🛠 | Software Engineering Student**  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://jamil-portfolio.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/abdullahi-jamilu-26b940275)
@@ -14,12 +14,12 @@
 
 I'm a passionate front-end developer from Nigeria, currently pursuing a **Bachelor's degree in Software Engineering** at **Bayero University Kano (BUK)**. I specialize in **building responsive and interactive web applications** using modern technologies.  
 
-- 🌱 **Currently Learning:** React.js  
-- 💬 **Ask me about:** HTML, CSS, JavaScript  
+- 🌱 **Currently Learning:** C++ , React JS , Node JS & EVerything IMPORTANT 😎  
+- 💬 **Ask me about:** HTML, CSS, JavaScript , Python
 - 🤝 **Open to:** Collaborations on front-end projects  
 - 📫 **Contact:** [bn.usmann22@gmail.com](mailto:bn.usmann22@gmail.com) | [WhatsApp](https://wa.me/9160152870)  
 - 😄 **Pronouns:** He/Him  
-- ⚡ **Fun Fact:** I'm a very fast learner!  
+- ⚡ **Fun Fact:** I'm a very fast learner! & a Vibrant and Creative thinker  
 
 ---
 
@@ -70,7 +70,7 @@ A **self-imposed challenge** to build, improve, and refine my front-end developm
 
 ---
 
-### 🏆 Py-Kathon 25 (Ongoing)  
+### 🏆 Py-Kathon 25 (Faculty of Computing , BUK-NG)  
 
 Participating in **Py-Kathon 25**, a competitive **Python programming and problem-solving contest**, representing my Software Engineering department at Bayero University Kano.  
 
