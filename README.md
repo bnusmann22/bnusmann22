@@ -1,6 +1,7 @@
 # Hi there, I'm Jamil Muhammad, ABDULLAHI! 👋  <br/> Dev. Jamil
 
 **Front-End Developer| PROBLEM SOLVER 🛠 | Software Engineering Student**  
+<img src="https://camo.githubusercontent.com/f5b63212477bfee006de019b8a001d43c41299946479b1c5c6004578f4130cbf/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d6a73616c697375266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="MJ Salisu" data-canonical-src="https://komarev.com/ghpvc/?username=mjsalisu&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://jamil-portfolio.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/abdullahi-jamilu-26b940275)
