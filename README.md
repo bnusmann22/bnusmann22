@@ -2,7 +2,7 @@
 
 **Front-End Developer| PROBLEM SOLVER 🛠 | Software Engineering Student**  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://jamil-portfolio.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://my-folio-bay.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/abdullahi-jamilu-26b940275)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge)](https://x.com/BnUsmann22)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge)](https://instagram.com/bn.usmann)
@@ -46,7 +46,7 @@ I'm a passionate front-end developer from Nigeria, currently pursuing a **Bachel
 
 ## 🚀 Featured Projects  
 
-### 🌐 [Dev Jamil](https://github.com/bnusmann22/Dev.Jamil)  
+### 🌐 [Dev Jamil](https://github.com/bnusmann22/my-folio)  
 
 My **personal portfolio website** showcasing my skills, projects, and achievements in software development. It serves as my digital resume and reflects my journey in tech.  
 
