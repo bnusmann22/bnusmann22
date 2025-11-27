@@ -14,9 +14,9 @@
 
 I'm a passionate front-end developer from Nigeria, currently pursuing a **Bachelor's degree in Software Engineering** at **Bayero University Kano (BUK)**. I specialize in **building responsive and interactive web applications** using modern technologies.  
 
-- 🌱 **Currently Learning:** C++ , React JS , Node JS & Everything IMPORTANT 😎  
-- 💬 **Ask me about:** HTML, CSS, JavaScript , Python 
-- 🤝 **Open to:** Collaborations on front-end projects  
+- 🌱 **Currently Learning:** Java, C++ , Next JS , Node JS & Everything IMPORTANT 😎  
+- 💬 **Ask me about:** HTML, CSS, JavaScript , Python ,ReactJS
+- 🤝 **Open to:** Collaborations on Web Dev projects  
 - 📫 **Contact:** [bn.usmann22@gmail.com](mailto:bn.usmann22@gmail.com) | [WhatsApp](https://wa.me/8126720790)  
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun Fact:** I'm a very fast learner! & a Vibrant and Creative thinker  
