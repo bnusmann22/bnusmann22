@@ -1,5 +1,5 @@
-# ... for the love of Open source
+# . . . for the love of Open source
 
-``
-  sud apt update --Jamil
-``
+```
+  sudo apt update --Jamil
+```
