@@ -1,1 +1,1 @@
-# For the love of Open source
+# ... for the love of Open source
