@@ -39,6 +39,10 @@
 </p>
 ---
 
+## 🔥 Streak stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mbaoma&theme=cobalt)](https://git.io/streak-stats)
+<br>
+
 **New projects, creative ideas, or exciting collaborations ?** . . . hit me up 👇
 
 [![Portfolio](https://img.shields.io/badge/My-Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://sarkin-tech.pxxl.click)
